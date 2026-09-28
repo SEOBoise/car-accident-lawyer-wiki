@@ -85,6 +85,8 @@ figcaption{border-top:1px solid var(--line);font-size:11px;line-height:1.65;colo
 .article-footer li{padding:0 0 14px 5px;break-inside:avoid}
 .article-footer li p{margin:0;color:var(--text)}
 .article-footer code{font:11px/1.6 var(--sans);color:var(--muted);overflow-wrap:anywhere;word-break:break-word}
+.legal-notice{clear:both;margin:28px 0 0;padding:10px 12px;background:#fff8d6;border-left:4px solid #fc3;font-size:13px;color:var(--text)}
+.categories{clear:both;margin:20px 0 16px;padding:8px 12px;background:var(--panel);border:1px solid var(--line);font-size:12.5px;color:var(--text)}
 .endbar{max-width:1200px;margin:0 auto 26px;padding:0 32px;display:flex;justify-content:space-between;gap:20px;font-size:11px;color:var(--muted)}
 .endbar p{margin:0}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
